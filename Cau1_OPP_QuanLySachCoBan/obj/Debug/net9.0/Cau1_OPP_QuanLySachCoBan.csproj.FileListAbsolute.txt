@@ -1,0 +1,14 @@
+D:\Cau1_OPP_QuanLySachCoBan\bin\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.exe
+D:\Cau1_OPP_QuanLySachCoBan\bin\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.deps.json
+D:\Cau1_OPP_QuanLySachCoBan\bin\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.runtimeconfig.json
+D:\Cau1_OPP_QuanLySachCoBan\bin\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.dll
+D:\Cau1_OPP_QuanLySachCoBan\bin\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.pdb
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.AssemblyInfoInputs.cache
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.AssemblyInfo.cs
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.csproj.CoreCompileInputs.cache
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.dll
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\refint\Cau1_OPP_QuanLySachCoBan.dll
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.pdb
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\Cau1_OPP_QuanLySachCoBan.genruntimeconfig.cache
+D:\Cau1_OPP_QuanLySachCoBan\obj\Debug\net9.0\ref\Cau1_OPP_QuanLySachCoBan.dll

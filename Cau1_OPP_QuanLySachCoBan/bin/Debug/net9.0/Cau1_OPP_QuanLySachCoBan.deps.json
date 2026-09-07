@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Cau1_OPP_QuanLySachCoBan/1.0.0": {
+        "runtime": {
+          "Cau1_OPP_QuanLySachCoBan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau1_OPP_QuanLySachCoBan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
