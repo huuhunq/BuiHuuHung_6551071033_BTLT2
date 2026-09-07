@@ -1,0 +1,14 @@
+D:\TinhLuongNhanVien\bin\Debug\net9.0\TinhLuongNhanVien.exe
+D:\TinhLuongNhanVien\bin\Debug\net9.0\TinhLuongNhanVien.deps.json
+D:\TinhLuongNhanVien\bin\Debug\net9.0\TinhLuongNhanVien.runtimeconfig.json
+D:\TinhLuongNhanVien\bin\Debug\net9.0\TinhLuongNhanVien.dll
+D:\TinhLuongNhanVien\bin\Debug\net9.0\TinhLuongNhanVien.pdb
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.AssemblyInfoInputs.cache
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.AssemblyInfo.cs
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.csproj.CoreCompileInputs.cache
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.dll
+D:\TinhLuongNhanVien\obj\Debug\net9.0\refint\TinhLuongNhanVien.dll
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.pdb
+D:\TinhLuongNhanVien\obj\Debug\net9.0\TinhLuongNhanVien.genruntimeconfig.cache
+D:\TinhLuongNhanVien\obj\Debug\net9.0\ref\TinhLuongNhanVien.dll
