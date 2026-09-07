@@ -1,0 +1,14 @@
+D:\QuanLySanPhamCuaHang\bin\Debug\net9.0\QuanLySanPhamCuaHang.exe
+D:\QuanLySanPhamCuaHang\bin\Debug\net9.0\QuanLySanPhamCuaHang.deps.json
+D:\QuanLySanPhamCuaHang\bin\Debug\net9.0\QuanLySanPhamCuaHang.runtimeconfig.json
+D:\QuanLySanPhamCuaHang\bin\Debug\net9.0\QuanLySanPhamCuaHang.dll
+D:\QuanLySanPhamCuaHang\bin\Debug\net9.0\QuanLySanPhamCuaHang.pdb
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.AssemblyInfoInputs.cache
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.AssemblyInfo.cs
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.csproj.CoreCompileInputs.cache
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.dll
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\refint\QuanLySanPhamCuaHang.dll
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.pdb
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\QuanLySanPhamCuaHang.genruntimeconfig.cache
+D:\QuanLySanPhamCuaHang\obj\Debug\net9.0\ref\QuanLySanPhamCuaHang.dll
